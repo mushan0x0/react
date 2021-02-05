@@ -86,3 +86,5 @@ export {
   unstable_Cache,
   unstable_useCacheRefresh,
 } from './src/React';
+export { default as PropTypes } from 'prop-types';
+export { default as createReactClass } from 'create-react-class';
